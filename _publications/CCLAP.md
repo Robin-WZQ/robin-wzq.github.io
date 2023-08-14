@@ -13,6 +13,7 @@ date: 2023
 <a href="https://huggingface.co/spaces/RobinWZQ/CCLAP"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Spaces"> </a>
 
 **Conference Accepted:** ICME 2023 (oral)
+
 **Project page:** [Github](https://github.com/Robin-WZQ/CCLAP)
 
 ## 👀 Abstract
