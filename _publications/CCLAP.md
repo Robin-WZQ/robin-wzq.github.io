@@ -5,7 +5,7 @@ permalink: /publication/CCLAP
 venue: 'ICME 2023, oral'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://Robin-WZQ.github.io/files/CCLAP.pdf)
 
 If you find this project useful in your research, please consider cite:
 ```
