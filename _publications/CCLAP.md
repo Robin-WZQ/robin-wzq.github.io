@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/CCLAP
 venue: 'ICME (oral)'
 date: 2023
+ciation: **Zhongqi Wang**, Jie Zhang, Zhilong Ji, Jinfeng Bai, Shiguang Shan. \n Conference on International Conference on Multimedia and Expo (ICME), oral, 2023
 ---
 
 [CCLAP](http://Robin-WZQ.github.io/files/CCLAP.pdf)
