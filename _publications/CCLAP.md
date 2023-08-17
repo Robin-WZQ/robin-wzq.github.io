@@ -3,7 +3,7 @@ title: "CCLAP: Controllable Chinese Landscape Painting Generation via Latent Dif
 collection: publications
 permalink: /publication/CCLAP
 venue: 'ICME (oral)'
-
+date: 2023-02-26
 ---
 [CCLAP](http://Robin-WZQ.github.io/files/CCLAP.pdf)
 
