@@ -3,19 +3,8 @@ title: "CCLAP: Controllable Chinese Landscape Painting Generation via Latent Dif
 collection: publications
 permalink: /publication/CCLAP
 venue: 'ICME (oral)'
-date: 2023
-citation: '**Zhongqi Wang**, Jie Zhang, Zhilong Ji, Jinfeng Bai, Shiguang Shan. \n Conference on International Conference on Multimedia and Expo (ICME), oral, 2023'
+
 ---
-
-[CCLAP](http://Robin-WZQ.github.io/files/CCLAP.pdf)
-
-<a src="https://img.shields.io/badge/cs.CV-2304.04156-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2304.04156"> <img src="https://img.shields.io/badge/cs.CV-2304.04156-b31b1b?logo=arxiv&logoColor=red">
-</a>
-<a href="https://huggingface.co/spaces/RobinWZQ/CCLAP"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Spaces"> </a>
-
-**Conference Accepted:** ICME 2023 (oral)
-
-**Project page:** [Github](https://github.com/Robin-WZQ/CCLAP)
 
 ## 👀 Abstract
 
